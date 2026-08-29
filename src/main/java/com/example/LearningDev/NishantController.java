@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class NishantController {
     @GetMapping("/")
     public String hello() {
-        return "Hello! DevOps spring app is running, Nishant here Learning AWS & DevOps.";
+        return "Hello! DevOps spring app is running, Nishant here Learning AWS & DevOps,hey all";
     }
 }
